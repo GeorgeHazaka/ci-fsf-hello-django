@@ -31,7 +31,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "8000-georgehazaka-ci-fsf-hell-6wn1y8ly7h.us2.codeanyapp.com",
-    "gio-django-todo-app-56179b49db97.herokuapp.com/"
+    "gio-django-todo-app-56179b49db97.herokuapp.com",
 ]
 
 
