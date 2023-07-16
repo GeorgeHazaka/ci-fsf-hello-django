@@ -31,6 +31,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "8000-georgehazaka-ci-fsf-hell-6wn1y8ly7h.us2.codeanyapp.com",
+    "ci-fsf-hello-django-app-aa313fa4c9c5.herokuapp.com",
     os.environ.get('HEROKU_HOSTNAME'),
 ]
 
